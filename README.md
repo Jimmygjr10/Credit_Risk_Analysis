@@ -13,7 +13,9 @@ Software: Python 3.9, Anaconda NAvigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6
 ### Random Over Sample model
 
 ![balanced_accuracy](https://user-images.githubusercontent.com/83085800/149665426-31f4d69d-4698-413e-9072-24c2cb2ba2e4.png)
+
 ![Credit_risk](https://user-images.githubusercontent.com/83085800/149665427-548064fd-6e84-4c74-937c-a5bc728997cd.png)
+
 ![F1-Score](https://user-images.githubusercontent.com/83085800/149665428-c427c8eb-5288-4020-ba43-d0d606b89725.png)
 
 The balanced accuracy score is 64%.
